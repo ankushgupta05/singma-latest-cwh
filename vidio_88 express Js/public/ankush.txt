@@ -1,0 +1,1 @@
+this is public file inside public folder and it can be access any where
